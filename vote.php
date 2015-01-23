@@ -9,7 +9,7 @@
     <meta name="author" content="">
     <link rel="icon" href="./favicon.ico">
 
-    <title>Jumbotron Template for Bootstrap</title>
+    <title>Jumbotron Template for Bootstrap Small edit</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./css/bootstrap.cerulean.min.css" rel="stylesheet">
